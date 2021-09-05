@@ -1,3 +1,3 @@
 
-[Exercises Episode 1](01-regular-expressions)
-[Exercises Episode 2](swcCoC)
+* [Exercises Episode 1](01-regular-expressions)
+* [Exercises Episode 2](swcCoC)
